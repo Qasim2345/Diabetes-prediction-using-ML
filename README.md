@@ -1,1 +1,2 @@
 # Diabetes-prediction-using-ML
+Diabetes prediction using machine learning involves building a model that can analyze various factors or features of an individual's health and predict whether they are likely to have diabetes or not. This project involves different steps like Data collection, data preprocessing, Feature selection, splitting the dataset in training and testing, Model selection, Model Training, Model evaluation etc. 
